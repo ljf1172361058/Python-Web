@@ -1,1 +1,1 @@
-# 基于Python Django 搭建的Python-web项目
+# 基于Python Django搭建的Python-web项目
